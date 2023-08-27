@@ -1,1 +1,1 @@
-# odin_landing_page
+This is my landing page project. In this project, I was given a website template to recreate with my own bit of touch. In order to do so, I had to apply what I have learned about aligning items in CSS with properties such as flex.
